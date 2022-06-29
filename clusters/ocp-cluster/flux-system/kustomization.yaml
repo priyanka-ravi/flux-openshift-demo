@@ -4,3 +4,4 @@ resources:
 - gotk-sync.yaml
 - weave-gitops-source.yaml
 - weave-gitops-helmrelease.yaml
+- podinfo-source.yaml
