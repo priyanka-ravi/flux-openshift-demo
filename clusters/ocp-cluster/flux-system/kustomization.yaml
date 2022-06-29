@@ -5,3 +5,4 @@ resources:
 - weave-gitops-source.yaml
 - weave-gitops-helmrelease.yaml
 - podinfo-source.yaml
+- podinfo-kustomization.yaml
